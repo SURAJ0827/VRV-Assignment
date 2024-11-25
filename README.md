@@ -18,7 +18,7 @@ A responsive and user-friendly Dashboard designed to streamline user, role, and 
 - Frontend: React, Vite
 - Styling: TailwindCSS
 - Routing: React Router
-- State Management: Redux
+- State Management: React state management
 
 Note:
 
